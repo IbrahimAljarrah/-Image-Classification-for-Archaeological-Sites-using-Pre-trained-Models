@@ -1,2 +1,2 @@
 # -Image-Classification-for-Archaeological-Sites-using-Pre-trained-Models
- Image Classification for Archaeological Sites using Pre-trained Models
+This repository aims to classify images of archaeological sites using pre-trained models and deep learning techniques. The dataset includes images from prominent archaeological sites such as Umm Qais, Jerash, Petra, Ajloun Castle, Wadi Rum, and Roman amphitheaters. Data augmentation techniques have been applied to enhance the diversity and robustness of the dataset.
