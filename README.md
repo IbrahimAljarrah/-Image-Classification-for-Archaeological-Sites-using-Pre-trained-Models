@@ -5,7 +5,7 @@ This repository aims to classify images of archaeological sites using pre-traine
 
 1. **Data Collection and Augmentation:**
    - Images from various archaeological sites were collected and curated for training the models.
-   - 
+     
   ![image](https://github.com/IbrahimAljarrah/-Image-Classification-for-Archaeological-Sites-using-Pre-trained-Models/assets/49195935/4d344d75-91b5-44db-b24b-d1cbde211ac9)
 
      
@@ -15,11 +15,11 @@ This repository aims to classify images of archaeological sites using pre-traine
    - Several pre-trained models have been utilized for image classification:
      - CNN (Convolutional Neural Network)
     
-     - ![image](https://github.com/IbrahimAljarrah/-Image-Classification-for-Archaeological-Sites-using-Pre-trained-Models/assets/49195935/400e83db-b016-4b3b-b6b0-69ec0c8aa286)
+      ![image](https://github.com/IbrahimAljarrah/-Image-Classification-for-Archaeological-Sites-using-Pre-trained-Models/assets/49195935/400e83db-b016-4b3b-b6b0-69ec0c8aa286)
 
      - InceptionV3
     
-     - ![image](https://github.com/IbrahimAljarrah/-Image-Classification-for-Archaeological-Sites-using-Pre-trained-Models/assets/49195935/a6578812-a9d9-43f6-9a3a-dc88e907d40b)
+      ![image](https://github.com/IbrahimAljarrah/-Image-Classification-for-Archaeological-Sites-using-Pre-trained-Models/assets/49195935/a6578812-a9d9-43f6-9a3a-dc88e907d40b)
 
      - EfficientNet
     
@@ -31,7 +31,7 @@ This repository aims to classify images of archaeological sites using pre-traine
 
      - VGGNet
     
-     - ![image](https://github.com/IbrahimAljarrah/-Image-Classification-for-Archaeological-Sites-using-Pre-trained-Models/assets/49195935/34b4c4eb-06d9-4dfc-8e5f-e2d7e4d279ec)
+      ![image](https://github.com/IbrahimAljarrah/-Image-Classification-for-Archaeological-Sites-using-Pre-trained-Models/assets/49195935/34b4c4eb-06d9-4dfc-8e5f-e2d7e4d279ec)
 
 
 4. **Training and Evaluation:**
@@ -44,8 +44,13 @@ This repository aims to classify images of archaeological sites using pre-traine
    - **Without Augmentation and using CNN model**
   
   ![صورة واتساب بتاريخ 1445-07-15 في 11 47 58_c4c288f7](https://github.com/IbrahimAljarrah/-Image-Classification-for-Archaeological-Sites-using-Pre-trained-Models/assets/49195935/bb53f436-7c9c-4643-9385-33fede3bdcc7)   
+- **With Augmentation and using VGG16 model**
 
+![صورة واتساب بتاريخ 1445-07-15 في 11 55 24_034a00e8](https://github.com/IbrahimAljarrah/-Image-Classification-for-Archaeological-Sites-using-Pre-trained-Models/assets/49195935/aa36f493-9934-4033-9302-a76ddd0c98a9)
 
+- **Without Augmentation and using VGG16 model**
+
+  ![صورة واتساب بتاريخ 1445-07-15 في 11 51 21_0e118496](https://github.com/IbrahimAljarrah/-Image-Classification-for-Archaeological-Sites-using-Pre-trained-Models/assets/49195935/e999643e-68ef-41e1-8044-50327c6889e3)
 
 
 
