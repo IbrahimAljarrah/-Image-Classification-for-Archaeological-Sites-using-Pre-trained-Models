@@ -90,9 +90,9 @@ This repository aims to classify images of archaeological sites using pre-traine
    - Evaluation metrics such as accuracy, precision, recall, and F1 score were computed to assess model performance.
      Evaluation Metrics With Augmentation for testing
      
-     ![image](https://github.com/IbrahimAljarrah/-Image-Classification-for-Archaeological-Sites-using-Pre-trained-Models/assets/49195935/0ed6cc53-bd20-490c-81b5-1c558b3cc6e4)
+![image](https://github.com/IbrahimAljarrah/-Image-Classification-for-Archaeological-Sites-using-Pre-trained-Models/assets/49195935/6d57dc74-5909-4bef-a4ee-a7b13c1067ef)
 
      Evaluation Metrics Without Augmentation for testing
      
-     ![image](https://github.com/IbrahimAljarrah/-Image-Classification-for-Archaeological-Sites-using-Pre-trained-Models/assets/49195935/6d060667-e914-4201-b215-4d7056d548bb)
+![image](https://github.com/IbrahimAljarrah/-Image-Classification-for-Archaeological-Sites-using-Pre-trained-Models/assets/49195935/16454f36-0ff9-46ed-b6c1-9238cf1dea4e)
 
