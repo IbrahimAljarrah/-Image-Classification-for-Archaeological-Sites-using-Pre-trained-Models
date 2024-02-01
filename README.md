@@ -12,7 +12,7 @@ This repository aims to classify images of archaeological sites using pre-traine
    - Data augmentation techniques were applied to increase the variability of the dataset, enhancing model generalization.
 
 2. **Model Architectures:**
-   - Several pre-trained models have been utilized for image classification:
+   - Several CNN and pre-trained models have been utilized for image classification.
      - CNN (Convolutional Neural Network)
 
 ![image](https://github.com/IbrahimAljarrah/-Image-Classification-for-Archaeological-Sites-using-Pre-trained-Models/assets/49195935/400e83db-b016-4b3b-b6b0-69ec0c8aa286)
