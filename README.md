@@ -71,7 +71,7 @@ This repository aims to classify images of archaeological sites using pre-traine
 
    **Confusion Matrix**
 
-   ![Uploading صورة واتساب بتاريخ 1445-07-15 في 18.11.39_aa41ce2b.jpg…]()
+![صورة واتساب بتاريخ 1445-07-15 في 18 11 39_23e6d2d1](https://github.com/IbrahimAljarrah/-Image-Classification-for-Archaeological-Sites-using-Pre-trained-Models/assets/49195935/f73034c8-4603-4ddb-8963-c622159da836)
 
    - **Without Augmentation and using InceptionV3 model**
    
