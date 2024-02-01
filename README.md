@@ -96,3 +96,6 @@ This repository aims to classify images of archaeological sites using pre-traine
      
 ![image](https://github.com/IbrahimAljarrah/-Image-Classification-for-Archaeological-Sites-using-Pre-trained-Models/assets/49195935/16454f36-0ff9-46ed-b6c1-9238cf1dea4e)
 
+
+**Demo**
+![image](https://github.com/IbrahimAljarrah/-Image-Classification-for-Archaeological-Sites-using-Pre-trained-Models/assets/49195935/496d433e-01c3-4ac3-b2fc-4a20f3cd589f)
