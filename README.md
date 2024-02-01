@@ -5,6 +5,9 @@ This repository aims to classify images of archaeological sites using pre-traine
 
 1. **Data Collection and Augmentation:**
    - Images from various archaeological sites were collected and curated for training the models.
+  ![image](https://github.com/IbrahimAljarrah/-Image-Classification-for-Archaeological-Sites-using-Pre-trained-Models/assets/49195935/4d344d75-91b5-44db-b24b-d1cbde211ac9)
+
+     
    - Data augmentation techniques were applied to increase the variability of the dataset, enhancing model generalization.
 
 2. **Model Architectures:**
