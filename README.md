@@ -1,4 +1,4 @@
-# -Image-Classification-for-Archaeological-Sites-using-Pre-trained-Models
+![image](https://github.com/IbrahimAljarrah/-Image-Classification-for-Archaeological-Sites-using-Pre-trained-Models/assets/49195935/614415cd-1fe8-47e5-bc62-c90de5ff8ca1)# -Image-Classification-for-Archaeological-Sites-using-Pre-trained-Models
 This repository aims to classify images of archaeological sites using pre-trained models and deep learning techniques. The dataset includes images from prominent archaeological sites such as Umm Qais, Jerash, Petra, Ajloun Castle, Wadi Rum, and Roman amphitheatres. Data augmentation techniques have been applied to enhance the diversity and robustness of the dataset.
 
 ### Steps Taken:
@@ -15,23 +15,23 @@ This repository aims to classify images of archaeological sites using pre-traine
    - Several CNN and pre-trained models have been utilized for image classification.
      - CNN (Convolutional Neural Network)
 
-![image](https://github.com/IbrahimAljarrah/-Image-Classification-for-Archaeological-Sites-using-Pre-trained-Models/assets/49195935/400e83db-b016-4b3b-b6b0-69ec0c8aa286)
+      ![image](https://github.com/IbrahimAljarrah/-Image-Classification-for-Archaeological-Sites-using-Pre-trained-Models/assets/49195935/400e83db-b016-4b3b-b6b0-69ec0c8aa286)
 
      - InceptionV3
     
-![image](https://github.com/IbrahimAljarrah/-Image-Classification-for-Archaeological-Sites-using-Pre-trained-Models/assets/49195935/a6578812-a9d9-43f6-9a3a-dc88e907d40b)
+      ![image](https://github.com/IbrahimAljarrah/-Image-Classification-for-Archaeological-Sites-using-Pre-trained-Models/assets/49195935/a6578812-a9d9-43f6-9a3a-dc88e907d40b)
 
      - EfficientNet
     
-![image](https://github.com/IbrahimAljarrah/-Image-Classification-for-Archaeological-Sites-using-Pre-trained-Models/assets/49195935/6c8a3b10-16f5-4b28-b7e5-3dda3f1d993a)
+      ![image](https://github.com/IbrahimAljarrah/-Image-Classification-for-Archaeological-Sites-using-Pre-trained-Models/assets/49195935/6c8a3b10-16f5-4b28-b7e5-3dda3f1d993a)
 
      - ResNet
     
-   ![image](https://github.com/IbrahimAljarrah/-Image-Classification-for-Archaeological-Sites-using-Pre-trained-Models/assets/49195935/07e42645-e2ad-48d8-9c5b-e7afa821c72a)
+      ![image](https://github.com/IbrahimAljarrah/-Image-Classification-for-Archaeological-Sites-using-Pre-trained-Models/assets/49195935/07e42645-e2ad-48d8-9c5b-e7afa821c72a)
 
      - VGG16
     
-![image](https://github.com/IbrahimAljarrah/-Image-Classification-for-Archaeological-Sites-using-Pre-trained-Models/assets/49195935/34b4c4eb-06d9-4dfc-8e5f-e2d7e4d279ec)
+      ![image](https://github.com/IbrahimAljarrah/-Image-Classification-for-Archaeological-Sites-using-Pre-trained-Models/assets/49195935/34b4c4eb-06d9-4dfc-8e5f-e2d7e4d279ec)
 
 
 4. **Training and Evaluation:**
@@ -69,7 +69,10 @@ This repository aims to classify images of archaeological sites using pre-traine
    - **With Augmentation and using InceptionV3 model**
 ![صورة واتساب بتاريخ 1445-07-15 في 11 55 57_f2e20560](https://github.com/IbrahimAljarrah/-Image-Classification-for-Archaeological-Sites-using-Pre-trained-Models/assets/49195935/503f7727-4984-4921-9e4c-2e55c2d2b258)
 
-   
+   **Confusion Matrix**
+
+   ![image](https://github.com/IbrahimAljarrah/-Image-Classification-for-Archaeological-Sites-using-Pre-trained-Models/assets/49195935/8c6b9b05-5c42-4763-ab53-dd621b07fd1d)
+
    - **Without Augmentation and using InceptionV3 model**
    
 ![صورة واتساب بتاريخ 1445-07-15 في 11 52 13_ec3544d5](https://github.com/IbrahimAljarrah/-Image-Classification-for-Archaeological-Sites-using-Pre-trained-Models/assets/49195935/64716137-6e42-4e27-ac79-fa2b0210d3f1)
@@ -84,17 +87,14 @@ This repository aims to classify images of archaeological sites using pre-traine
    
 ![صورة واتساب بتاريخ 1445-07-15 في 11 51 59_b735aad8](https://github.com/IbrahimAljarrah/-Image-Classification-for-Archaeological-Sites-using-Pre-trained-Models/assets/49195935/02b46b26-2ed2-4ea4-9834-92f1392af249)
 
-
-
-
    - Evaluation metrics such as accuracy, precision, recall, and F1 score were computed to assess model performance.
      Evaluation Metrics With Augmentation for testing
      
-![image](https://github.com/IbrahimAljarrah/-Image-Classification-for-Archaeological-Sites-using-Pre-trained-Models/assets/49195935/6d57dc74-5909-4bef-a4ee-a7b13c1067ef)
+   ![image](https://github.com/IbrahimAljarrah/-Image-Classification-for-Archaeological-Sites-using-Pre-trained-Models/assets/49195935/6d57dc74-5909-4bef-a4ee-a7b13c1067ef)
 
      Evaluation Metrics Without Augmentation for testing
      
-![image](https://github.com/IbrahimAljarrah/-Image-Classification-for-Archaeological-Sites-using-Pre-trained-Models/assets/49195935/16454f36-0ff9-46ed-b6c1-9238cf1dea4e)
+   ![image](https://github.com/IbrahimAljarrah/-Image-Classification-for-Archaeological-Sites-using-Pre-trained-Models/assets/49195935/16454f36-0ff9-46ed-b6c1-9238cf1dea4e)
 
 
 **Demo**
