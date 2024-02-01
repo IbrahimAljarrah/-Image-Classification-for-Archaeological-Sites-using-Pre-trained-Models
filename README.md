@@ -1,4 +1,4 @@
-![image](https://github.com/IbrahimAljarrah/-Image-Classification-for-Archaeological-Sites-using-Pre-trained-Models/assets/49195935/cd96dc7e-f923-426d-ae28-a9422f5cd99e)# -Image-Classification-for-Archaeological-Sites-using-Pre-trained-Models
+# -Image-Classification-for-Archaeological-Sites-using-Pre-trained-Models
 This repository aims to classify images of archaeological sites using pre-trained models and deep learning techniques. The dataset includes images from prominent archaeological sites such as Umm Qais, Jerash, Petra, Ajloun Castle, Wadi Rum, and Roman amphitheatres. Data augmentation techniques have been applied to enhance the diversity and robustness of the dataset.
 
 ### Steps Taken:
@@ -94,5 +94,5 @@ This repository aims to classify images of archaeological sites using pre-traine
 
      Evaluation Metrics Without Augmentation for testing
      
-     ![image](https://github.com/IbrahimAljarrah/-Image-Classification-for-Archaeological-Sites-using-Pre-trained-Models/assets/49195935/b86c2d3f-8eef-4b4e-ab43-9a2d3da884d5)
+     ![image](https://github.com/IbrahimAljarrah/-Image-Classification-for-Archaeological-Sites-using-Pre-trained-Models/assets/49195935/6d060667-e914-4201-b215-4d7056d548bb)
 
